@@ -39,7 +39,7 @@
 <div>
     <div class="container">
         <h1>
-            Onfire Digital Base Styles
+            Base Styles
         </h1>
         <p>
             The purpose of this page is to view all the base styles of a project.

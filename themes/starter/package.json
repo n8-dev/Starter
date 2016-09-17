@@ -1,0 +1,13 @@
+{
+  "name": "ProjectName",
+  "version": "0.0.1",
+  "author": "Name here",
+  "contact": "email@email.com",
+  "description": "Package file for Project Name",
+  "repository": {},
+  "dependencies": {
+    "time-grunt": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-contrib-cssmin": "*"
+  }
+}

@@ -2,11 +2,11 @@
 // Custom Scripts
 // -----------------------------------------------------------------------------
 
-var ONFIRE = ONFIRE || {};
+var STARTER = STARTER || {};
 
 $(document).ready(function () {
 
-    ONFIRE = {
+    STARTER = {
         settings: {
 
         },
@@ -27,5 +27,5 @@ $(document).ready(function () {
             }
         }
     }
-    ONFIRE.init();
+    STARTER.init();
 });

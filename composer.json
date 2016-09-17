@@ -5,6 +5,7 @@
 		"php": ">=5.3.3",
 		"silverstripe/cms": "3.3.0",
 		"silverstripe/framework": "3.3.*",
+		"silverstripe/siteconfig": "3.3.*"
 	},
 	"require-dev": {
 	},

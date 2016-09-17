@@ -1,2 +1,2 @@
 # Starter
-a project starter for silverstripe projects.
+A project start point for SilverStripe projects.

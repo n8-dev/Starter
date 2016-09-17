@@ -7,9 +7,9 @@ framework/
 cms/
 siteconfig/
 reports/
-themes/phab/css/main.min.css.map
-themes/phab/images/
+themes/*/css/main.min.css.map
+themes/*/images/
 silverstripe.log
 silverstripe-errors.log
-themes/phab/node_modules/
+themes/*/node_modules/
 gridfieldextensions/
